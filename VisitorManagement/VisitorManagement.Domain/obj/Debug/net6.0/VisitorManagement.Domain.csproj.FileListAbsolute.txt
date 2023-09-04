@@ -1,0 +1,12 @@
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\bin\Debug\net6.0\VisitorManagement.Domain.deps.json
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\bin\Debug\net6.0\VisitorManagement.Domain.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\bin\Debug\net6.0\VisitorManagement.Domain.pdb
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.csproj.AssemblyReference.cache
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.AssemblyInfoInputs.cache
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.AssemblyInfo.cs
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.csproj.CoreCompileInputs.cache
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\refint\VisitorManagement.Domain.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.pdb
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\ref\VisitorManagement.Domain.dll
